@@ -1,0 +1,23 @@
+{
+  "name": "flashcard-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "dependencies": {
+    "inquirer": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johcare/Flashcards-box.git"
+  },
+  "author": "Yauheni Baranouski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johcare/Flashcards-box/issues"
+  },
+  "homepage": "https://github.com/Johcare/Flashcards-box#readme"
+}
